@@ -29,6 +29,8 @@
 3. Test Devices and Apps: Macbook Pro, Chrome: Version 116.0.5845.179
 4. Test conditions: Search term: "Odkładanie", "Odkładanie wszystkiego na póżniej - o prokrastynacji", "później"
 5. Test Steps:
+
+
 1. Go to the website "https://szkolawchmurze.org/blog"
 
 2. Go to the search box and type "Odkładanie wszystkiego na póżniej - o prokrastynacji"
