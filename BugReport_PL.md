@@ -20,3 +20,6 @@
 **ZAŁĄCZNIKI** - _materiały dodatkowe (np. wizualne)_
 
 **PODSUMOWANIE** - _miejsce do podsumowania zgłoszenia i przekazania dodatkowych uwag dla developera_
+
+#Przykładowy bug na podstawie strony https://szkolawchmurze.org/
+
