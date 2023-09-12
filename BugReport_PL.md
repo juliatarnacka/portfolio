@@ -48,6 +48,7 @@ Oczekiwany rezultat:
 Numer jest klikalny oraz przekierowuje do innych komunikatorów (np.Skype). 
 
 Załączniki:
+
 <img width="671" alt="Zrzut ekranu 2023-09-12 o 13 53 27" src="https://github.com/juliatarnacka/portfolio/assets/144791433/4525791a-6f82-4d47-8b0a-a7c2ad8b1abc">
 
 Podsumowanie: 
