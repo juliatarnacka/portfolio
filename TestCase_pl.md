@@ -31,10 +31,15 @@ Macbook Pro, Chrome: Wersja 116.0.5845.179
 4. Warunki testowe:**
 Hasło do wyszukiwania: "Odkładanie","Odkładanie wszystkiego na póżniej - o prokrastynacji", "póżniej"
 5. Kroki testowe:
+   
   1.Przejdź do strony "https://szkolawchmurze.org/blog"
+
+  
   2.Przejdz do pola wyszukiwania "szukaj" i wpisz "Odkładanie wszystkiego na póżniej - o prokrastynacji"
-6. Oczekiwany rezultat: Po wpisaniu danych testowych, strona wyświetla artykuł "Odkładanie wszystkiego na póżniej - o prokrastynacji"
-7. Rzeczywisty rezultat:
+
+  
+7. Oczekiwany rezultat: Po wpisaniu danych testowych, strona wyświetla artykuł "Odkładanie wszystkiego na póżniej - o prokrastynacji"
+8. Rzeczywisty rezultat:
 
 TC1 - Wyszukanie hasła "Odkładanie wszystkiego na póżniej - o prokrastynacji"
 
