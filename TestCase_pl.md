@@ -38,19 +38,27 @@ Hasło do wyszukiwania: "Odkładanie","Odkładanie wszystkiego na póżniej - o 
 
 TC1 - Wyszukanie hasła "Odkładanie wszystkiego na póżniej - o prokrastynacji"
 
+
 Wyszukiwarka poprawnie wyświetla wyszukiwany artykuł.
+
 
 TC2 - Wyszukanie hasła "Odkładanie"
 
+
 Wyszukiwarka poprawnie wyświetla wyszukiwany artykuł
+
 
 TC3 - Wyszukanie hasła "Odkładanie wszystkiego na póżniej - o prokrastynacji" tylko wielkimi literami
 
+
 Wyszukiwarka poprawnie wyświetla wyszukiwany artykuł
+
 
 TC4 - Wyszukiwanie hasła "później"
 
+
 Wyszukiwarka nie znajduje artukułu zawierającego słowo "później"
+
 
 8.Podsumowanie - Wyszukiwanie haseł "Odkładanie","Odkładanie wszystkiego na póżniej - o prokrastynacji", "póżniej" zakończone nie zgodnie z oczekiwanym rezultatem.
 9.Wynik testu: Niezaliczony. 
