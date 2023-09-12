@@ -28,7 +28,7 @@
 2. Środowisko testowe - https://szkolawchmurze.org/blog
 3. Urządzenia i aplikacje testowe:
 Macbook Pro, Chrome: Wersja 116.0.5845.179
-4. Warunki testowe:**
+4. Warunki testowe:
 Hasło do wyszukiwania: "Odkładanie","Odkładanie wszystkiego na póżniej - o prokrastynacji", "póżniej"
 5. Kroki testowe:
    
