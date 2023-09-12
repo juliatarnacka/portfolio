@@ -59,6 +59,8 @@ TC4 - Wyszukiwanie hasła "później"
 
 Wyszukiwarka nie znajduje artukułu zawierającego słowo "później"
 
+<img width="697" alt="Zrzut ekranu 2023-09-12 o 14 43 34" src="https://github.com/juliatarnacka/portfolio/assets/144791433/167351d6-08a0-465a-b623-b3dfd0411666">
+
 
 8.Podsumowanie - wyszukiwanie haseł "Odkładanie","Odkładanie wszystkiego na póżniej - o prokrastynacji", "póżniej" zakończone nie zgodnie z oczekiwanym rezultatem.
 
