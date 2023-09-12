@@ -31,9 +31,9 @@
 5. Test Steps:
 
 
-  1. Go to the website "https://szkolawchmurze.org/blog"
+Go to the website "https://szkolawchmurze.org/blog"
 
-  2. Go to the search box and type "Odkładanie wszystkiego na póżniej - o prokrastynacji"
+Go to the search box and type "Odkładanie wszystkiego na póżniej - o prokrastynacji"
 
 6.Expected result: After entering the test data, the page displaying the article "Odkładanie wszystkiego na póżniej - o prokrastynacji"
 
