@@ -36,16 +36,16 @@ Hasło do wyszukiwania: "Odkładanie","Odkładanie wszystkiego na póżniej - o 
 6. Oczekiwany rezultat: Po wpisaniu danych testowych, strona wyświetla artykuł "Odkładanie wszystkiego na póżniej - o prokrastynacji"
 7. Rzeczywisty rezultat:
 
-PTC1 - Wyszukanie hasła "Odkładanie wszystkiego na póżniej - o prokrastynacji"
+TC1 - Wyszukanie hasła "Odkładanie wszystkiego na póżniej - o prokrastynacji"
 Wyszukiwarka poprawnie wyświetla wyszukiwany artykuł.
 
-PTC2 - Wyszukanie hasła "Odkładanie"
+TC2 - Wyszukanie hasła "Odkładanie"
 Wyszukiwarka poprawnie wyświetla wyszukiwany artykuł
 
-PTC3 - Wyszukanie hasła "Odkładanie wszystkiego na póżniej - o prokrastynacji" tylko wielkimi literami
+TC3 - Wyszukanie hasła "Odkładanie wszystkiego na póżniej - o prokrastynacji" tylko wielkimi literami
 Wyszukiwarka poprawnie wyświetla wyszukiwany artykuł
 
-PTC4 - Wyszukiwanie hasła "później"
+TC4 - Wyszukiwanie hasła "później"
 Wyszukiwarka nie znajduje artukułu zawierającego słowo "później"
 
 8.Podsumowanie - Wyszukiwanie haseł "Odkładanie","Odkładanie wszystkiego na póżniej - o prokrastynacji", "póżniej" zakończone nie zgodnie z oczekiwanym rezultatem.
